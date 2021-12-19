@@ -6,6 +6,9 @@ This app leverages Flutter's UX/UI functionality to create a material design tha
 The custom server is built from scratch and uses node JS as server side programming language. The server is hosted on heroku and I use it to accept HTTP requests from the client and respond with information and or any errors.
 The custom server on heroku also interacts with a database hosted with mongoDB. The database stores user account information and generated content.
 
+final app UI
+
+![final](https://github.com/Festus1440/cultivor/blob/a3d28a591f7ae88fe5e4918fc990018220394feb/final_app.png)
 
 
 Client side request code sample
@@ -13,3 +16,6 @@ Client side request code sample
 ![client](https://github.com/Festus1440/cultivor/blob/a3d28a591f7ae88fe5e4918fc990018220394feb/client.png)
 
 
+Server side request handler and response code sample
+
+![server](https://github.com/Festus1440/cultivor/blob/a3d28a591f7ae88fe5e4918fc990018220394feb/server.png)
