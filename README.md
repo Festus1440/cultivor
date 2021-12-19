@@ -8,8 +8,7 @@ The custom server on heroku also interacts with a database hosted with mongoDB. 
 
 final app UI
 
-![final](https://github.com/Festus1440/cultivor/blob/a3d28a591f7ae88fe5e4918fc990018220394feb/final_app.png)
-
+<img src="https://github.com/Festus1440/cultivor/blob/80155feb4de89274e4e6bdd392adc3f30313b0b6/app_final.png" width="350" alt="final design">
 
 Client side request code sample
 
