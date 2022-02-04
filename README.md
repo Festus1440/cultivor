@@ -18,3 +18,6 @@ Client side request code sample
 Server side request handler and response code sample
 
 ![server](https://github.com/Festus1440/cultivor/blob/a3d28a591f7ae88fe5e4918fc990018220394feb/server.png)
+
+release build
+https://apps.apple.com/us/app/cultivor/id1587551720
